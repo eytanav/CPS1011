@@ -1,0 +1,6 @@
+Exercise 2:
+2. The Result does not change
+4. The result displayed for %f is 0.0000 whilst %d is 4234725 if value is not typecasted to float (since it is expecting a floating pt num),
+If it is the value is 4234725.0000, the difference being the decimal point and 0's due to it being a floating point, whilst %d gives an integer
+If the integer corresponds to a non-printable character, it will either display nothing or display a special symbol
+
