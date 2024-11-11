@@ -1,0 +1,5 @@
+The iterative approach is more efficient in terms of stack memory usage, 
+while the recursive approach may be more readable but risks 'stack overflow' for large inputs due to its linear stack frame growth.
+If you look at the space complexity: 
+Iterative Approach: O(1)
+Recursive Approach: O(n)
